@@ -6,7 +6,7 @@ Team ID: C242-PS448
 Project Name: Replaste
 
 ## Replaste 
-
+![Logo](https://github.com/REPLASTE/.github/blob/26dbeb14ccc0ef9d0a7929e66ad6a75178740723/Untitled1234-1.png)
 
 Theme             : Suistainable Futures: Nurturing harmony between humanity and the environment
 
