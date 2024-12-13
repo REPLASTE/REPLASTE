@@ -35,7 +35,7 @@ Tackling the problem of plastic pollution is essential for creating a more harmo
 
 ## Screenshot
 ![Home](https://github.com/REPLASTE/.github/blob/5aa21f0fd49dc4f982cd590d6f7a252a05ff40d0/WhatsApp%20Image%202024-12-13%20at%2012.56.42_4537863d.jpg)
-![register](https://github.com/REPLASTE/.github/blob/5aa21f0fd49dc4f982cd590d6f7a252a05ff40d0/WhatsApp%20Image%202024-12-13%20at%2012.56.43_07513f33.jpg)
+![register](https://github.com/REPLASTE/.github/blob/5aa21f0fd49dc4f982cd590d6f7a252a05ff40d0/WhatsApp%20Image%202024-12-13%20at%2012.56.42_66c203f2.jpg)
 ![login](https://github.com/REPLASTE/.github/blob/5aa21f0fd49dc4f982cd590d6f7a252a05ff40d0/WhatsApp%20Image%202024-12-13%20at%2012.56.43_ef5d129d.jpg)
 ![password](https://github.com/REPLASTE/.github/blob/5aa21f0fd49dc4f982cd590d6f7a252a05ff40d0/WhatsApp%20Image%202024-12-13%20at%2012.56.43_d05caa3e.jpg)
 ![profil](https://github.com/REPLASTE/.github/blob/5aa21f0fd49dc4f982cd590d6f7a252a05ff40d0/WhatsApp%20Image%202024-12-13%20at%2012.56.43_6621cf92.jpg)
@@ -49,4 +49,4 @@ Tackling the problem of plastic pollution is essential for creating a more harmo
 
 
 ## Download Our Apps
-You can download it here:  
+You can download it here: https://bit.ly/Replaste
