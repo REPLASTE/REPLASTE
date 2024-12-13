@@ -21,7 +21,7 @@ Tackling the problem of plastic pollution is essential for creating a more harmo
 
 
 ## Team Member 
-
+![Team](https://github.com/REPLASTE/.github/blob/5aa21f0fd49dc4f982cd590d6f7a252a05ff40d0/Screenshot%20(3038).png)
 | Bangkit ID | Name | Learning Path | University |LinkedIn |
 | ---      | ---       | ---       | ---       | ---       |
 | C488B4KY0483 | Anantha Marcellino Hidayat | Cloud Computing | Universitas Darma Persada | [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ananthamarcellino/) |
@@ -34,8 +34,19 @@ Tackling the problem of plastic pollution is essential for creating a more harmo
 
 
 ## Screenshot
+![Home](https://github.com/REPLASTE/.github/blob/5aa21f0fd49dc4f982cd590d6f7a252a05ff40d0/WhatsApp%20Image%202024-12-13%20at%2012.56.42_4537863d.jpg)
+![register](https://github.com/REPLASTE/.github/blob/5aa21f0fd49dc4f982cd590d6f7a252a05ff40d0/WhatsApp%20Image%202024-12-13%20at%2012.56.43_07513f33.jpg)
+![login](https://github.com/REPLASTE/.github/blob/5aa21f0fd49dc4f982cd590d6f7a252a05ff40d0/WhatsApp%20Image%202024-12-13%20at%2012.56.43_ef5d129d.jpg)
+![password](https://github.com/REPLASTE/.github/blob/5aa21f0fd49dc4f982cd590d6f7a252a05ff40d0/WhatsApp%20Image%202024-12-13%20at%2012.56.43_d05caa3e.jpg)
+![profil](https://github.com/REPLASTE/.github/blob/5aa21f0fd49dc4f982cd590d6f7a252a05ff40d0/WhatsApp%20Image%202024-12-13%20at%2012.56.43_6621cf92.jpg)
+![kamera](https://github.com/REPLASTE/.github/blob/5aa21f0fd49dc4f982cd590d6f7a252a05ff40d0/WhatsApp%20Image%202024-12-13%20at%2012.56.43_bb09bc05.jpg)
+![classification](https://github.com/REPLASTE/.github/blob/5aa21f0fd49dc4f982cd590d6f7a252a05ff40d0/WhatsApp%20Image%202024-12-13%20at%2012.56.43_299a42c5.jpg)
+![daurulang](https://github.com/REPLASTE/.github/blob/5aa21f0fd49dc4f982cd590d6f7a252a05ff40d0/WhatsApp%20Image%202024-12-13%20at%2012.56.43_26c672b9.jpg)
+![result](https://github.com/REPLASTE/.github/blob/5aa21f0fd49dc4f982cd590d6f7a252a05ff40d0/WhatsApp%20Image%202024-12-13%20at%2012.56.43_07513f33.jpg)
+![jenis](https://github.com/REPLASTE/.github/blob/5aa21f0fd49dc4f982cd590d6f7a252a05ff40d0/WhatsApp%20Image%202024-12-13%20at%2012.56.43_07513f33.jpg)
+![location](https://github.com/REPLASTE/.github/blob/5aa21f0fd49dc4f982cd590d6f7a252a05ff40d0/WhatsApp%20Image%202024-12-13%20at%2012.56.42_65b5891f.jpg)
+![history](https://github.com/REPLASTE/.github/blob/5aa21f0fd49dc4f982cd590d6f7a252a05ff40d0/WhatsApp%20Image%202024-12-13%20at%2012.56.43_07513f33.jpg)
 
-## Video demo
 
 ## Download Our Apps
 You can download it here:  
